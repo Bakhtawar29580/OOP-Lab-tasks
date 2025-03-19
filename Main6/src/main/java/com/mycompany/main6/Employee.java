@@ -35,7 +35,6 @@ public class Employee {
                 System.out.println("Invalid performance rating");
                 bonusper = 0;
         }
-
         return basesalary * bonusper;
     }
 }
