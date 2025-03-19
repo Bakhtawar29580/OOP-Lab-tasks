@@ -4,9 +4,5 @@ public class Vehicle {
     
     void startEngine(){
         System.out.println("The engine starts");
-    }
-    
-    
-    
-    
+    }   
 }
