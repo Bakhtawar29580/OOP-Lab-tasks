@@ -12,6 +12,6 @@ public class LightBulb {
     }
     
     void showStatus(){
-        System.out.println("Light is " + (isOn? "ON" : "OFF"));
+        System.out.println("The Light is " + (isOn? "ON" : "OFF"));
     }
 }
