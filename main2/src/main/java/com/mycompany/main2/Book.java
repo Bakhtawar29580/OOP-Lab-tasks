@@ -1,9 +1,8 @@
-
 package com.mycompany.main2;
 
 public class Book {
     private String title = "The silent patient";
-    private String author = "James";
+    private String author = "Alex Michaelides";
     private boolean isIssued = false;
     
     void issueBook(){
