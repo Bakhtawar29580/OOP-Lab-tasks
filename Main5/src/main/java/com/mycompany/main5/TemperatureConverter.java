@@ -30,10 +30,9 @@ public class TemperatureConverter {
     
     void showTemperature(){
         if(isCelsuis){
-            System.out.println("Stored temperature: " + temperature + " C");
+            System.out.println("Stored Temperature: " + temperature + " C");
         }else{
-            System.out.println("Stored temperature: " + temperature + " F");
+            System.out.println("Stored Temperature: " + temperature + " F");
         }
-    }
-    
+    }   
 }

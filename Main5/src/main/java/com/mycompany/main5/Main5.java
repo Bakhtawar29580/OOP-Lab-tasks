@@ -11,6 +11,6 @@ public class Main5 {
         
         t1.setFahrenheit(77);
         t1.showTemperature();
-        System.out.println("Converted to Celsuis: " + t1.toCelsius() + " C");
+        System.out.println("Converted to Celsuis: " + t1.toCelsius() + "°C");
     }
 }
