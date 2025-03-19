@@ -8,7 +8,7 @@ public class Main6 {
          double bonus1 = e1.calculateBonus(4000);
          System.out.println("Bonus based on base salary of 4000: " + bonus1);
         
-         double bonus2 = e1.calculateBonus(2100.8, 9);
+         double bonus2 = e1.calculateBonus(4100.0, 9);
          System.out.println("Bonus based on performance rating: " + bonus2);
         
     }
