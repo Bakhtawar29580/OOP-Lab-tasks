@@ -11,5 +11,4 @@ public class power {
         int num = input.nextInt();
         System.out.println("Power of" + num + " is " + Math.pow(2, 8));
     }
-}
-   
+}   
